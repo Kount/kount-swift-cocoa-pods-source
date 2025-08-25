@@ -1,5 +1,4 @@
 # kount-cocoa-pods-source
-====================
 
 Kount's Cocoapod SDK helps integrate Kount's fraud fighting solution into
 your iOS app.
